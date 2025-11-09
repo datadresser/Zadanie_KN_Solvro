@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da80a093-5819-4017-90d2-cb6944791370" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JupyterProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/digit19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/anchor/stamp09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/digit18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/balloon/stamp09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/digit18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bicycle/stamp10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/digit18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/envelope/stamp10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/digit18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/paper_boat/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/digit18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/peace_symbol/stamp09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/digit17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smiley/stamp10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/speech_bubble/stamp09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/digit17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spiral/stamp10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/digit18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/drawn16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thumb/stamp10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataset.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35907BqD1M9xgKAA0pXmtnK11QD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.dataset.executor": "Run",
+    "Python.kkk.executor": "Run",
+    "Python.model.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/adria/Desktop/PycharmProjects/JupyterProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\Desktop\PycharmProjects\JupyterProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\Desktop\PycharmProjects\JupyterProject" />
+      <recent name="C:\Users\adria\Desktop\PycharmProjects\JupyterProject\notebook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JupyterProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kkk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JupyterProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kkk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JupyterProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JupyterProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.dataset" />
+        <item itemvalue="Python.kkk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da80a093-5819-4017-90d2-cb6944791370" name="Changes" comment="" />
+      <created>1762506810809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762506810809</updated>
+      <workItem from="1762506811822" duration="31479000" />
+      <workItem from="1762710721830" duration="14349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JupyterProject$test.coverage" NAME="test Coverage Results" MODIFIED="1762537747557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JupyterProject$kkk.coverage" NAME="kkk Coverage Results" MODIFIED="1762523407837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JupyterProject$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1762530963822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/JupyterProject$model.coverage" NAME="model Coverage Results" MODIFIED="1762533489023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
