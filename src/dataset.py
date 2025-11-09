@@ -31,7 +31,7 @@ def explore(root, seed):
             ax.imshow(img)
             w, h = img.size
             ax.set_title(f"Class: {c}\n"
-                         f"Type: {path.split('\\')[-1][:-6]}\n"
+#                         f"Type: {path.split('\\')[-1][:-6]}\n"
                          f"Size: {w}x{h}")
             ax.axis('off')
         plt.show()
